@@ -1,0 +1,68 @@
+/* 
+# Customize The Fonts
+*/
+
+/* 
+#QUICKSAND
+*/
+
+/* QuickSand  */
+
+/* Quicksand Semibold */
+
+@font-face {
+    font-family: "Quicksand";
+    font-display: swap;
+    font-weight: 600;
+    font-style: normal;
+    src: local("Quicksand SemiBold"),
+            url("./quicksand/quicksand-semiBold.woff2");
+}
+
+/* Quicksand Bold */
+
+@font-face {
+    font-family: "Quicksand";
+    font-display: swap;
+    font-weight: 700;
+    font-style: normal;
+    src: local("Quicksand Bold"),
+            url("./quicksand/quicksand-bold.woff2");
+}
+
+/* 
+* #NUNITO-SANS
+*/
+
+/* Nunito Sans Regular */
+
+@font-face {
+    font-family: "Nunito Sans";
+    font-display: swap;
+    font-weight: 400;
+    font-style: normal;
+    src: local("Nunito Sans Regular"),
+            url("./nunito-sans/nunito-sans-regular.woff2");
+}
+
+/* Nunito Sans SemiBold */
+
+@font-face {
+    font-family: "Nunito Sans";
+    font-display: swap;
+    font-weight: 600;
+    font-style: normal;
+    src: local("Nunito Sans SemiBold"),
+            url("./nunito-sans/nunito-sans-semiBold.woff2");
+}
+
+/* Nunito Sans Bold */
+
+@font-face {
+    font-family: "Nunito Sans";
+    font-weight: 700;
+    font-display: swap;
+    font-style: normal;
+    src: local("Nunito Sans Bold"),
+            url("./nunito-sans/nunito-sans-bold.woff2");
+}
